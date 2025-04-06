@@ -1,5 +1,7 @@
-## Breast Cancer Diagnosis Using Machine Learning Algorithms 
-# <center> LDC </Aroofa Mohammad>
+# Breast Cancer Diagnosis Using Machine Learning Algorithms 
+<p align="center">
+Aroofa Mohammad
+</p> 
 
 Analyzing Machine Learning Techniques to Detect Breast Cancer
 
