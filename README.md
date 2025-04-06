@@ -2,15 +2,15 @@
 <h3 align="center">
     Aroofa Mohammad
 </h3> 
-<p align="center">
+<h3 align="center">
    Analyzing Machine Learning Techniques to Detect Breast Cancer
-</p> 
-### <p align="center">
+</h3> 
+<h3 align="center">
   Breast Cancer Detection Proposal
-</p> 
-### <p align="center">
+</h3> 
+<h3 align="center">
   March 3, 2022  
-</p> 
+</h3> 
 
 ## Introduction
 Cancer is the second most common cause of death in the US, after heart disease. One of the most common and deadly types of cancer is breast cancer. Which has caused around 43,250 women and 530 men to lose their life in 2022. Therefore, the ability to predict and diagnose cases of breast cancer is crucial for the importance of someone's life. With life and death playing a part, accuracy is very important in the survival rate of the patient and the best course of treatment. Machine learning models/algorithms have shown a significant impact on the process of breast cancer prediction and early diagnosis.
