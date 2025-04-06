@@ -1,10 +1,9 @@
 # Breast Cancer Diagnosis Using Machine Learning Algorithms 
-### <p align="center">
-   ### Aroofa Mohammad
-</p> 
-
-### <p align="center">
-  ### Analyzing Machine Learning Techniques to Detect Breast Cancer
+<h3 align="center">
+    Aroofa Mohammad
+</h3> 
+<p align="center">
+   Analyzing Machine Learning Techniques to Detect Breast Cancer
 </p> 
 ### <p align="center">
   Breast Cancer Detection Proposal
